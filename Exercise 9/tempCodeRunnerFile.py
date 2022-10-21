@@ -1,0 +1,1 @@
+parsedData = df.map(parsePoint)
